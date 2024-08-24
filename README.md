@@ -1,1 +1,1 @@
-Vanilla Transformer model code from scratch from the paper "Attention All You Need"
+Vanilla Transformer model code from scratch (paper ref: "Attention All You Need")
